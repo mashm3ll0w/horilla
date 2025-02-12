@@ -148,3 +148,10 @@ whoosh_index/
 
 #VSCode
 .vscode/
+
+# IntelliJ
+.idea/
+out/
+.idea_modules/
+
+
